@@ -1,1 +1,9 @@
-
+header{
+    background-image: url('https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg');
+    /* background-color: rgb(135, 20, 128); */
+    background-size: cover;
+    color: #201a1a;
+    text-align: center;
+    padding: 100px 0;
+    
+}
